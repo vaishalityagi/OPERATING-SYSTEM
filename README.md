@@ -30,10 +30,7 @@ This Java-based project simulates the **Banker's Algorithm** for managing resour
 ## How to Use
 
 ### 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/bankers-algorithm-deadlock.git
-   cd bankers-algorithm-deadlock
-   ```
+ 
 
 ### 2. **Compile the Java files:**
    ```bash
