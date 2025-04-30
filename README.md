@@ -100,8 +100,3 @@ bankers-algorithm-deadlock/
 ├── README.md             # Project documentation.
 ```
 
-## Contributing
-Feel free to fork the project, make changes, and submit pull requests. Contributions to enhance the simulation or add additional features are welcome.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
